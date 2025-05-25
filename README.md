@@ -1,6 +1,6 @@
 <h1 align="center">שלום! אני תמר זלץ 👋</h1>
 <p align="center">
-מפתחת תוכנה | מתמחה ב-AI, Full Stack, מערכות חכמות
+מפתחת תוכנה | מתמחה ב-AI, Full Stack, Embeded
 </p>
 
 ---
@@ -14,22 +14,20 @@
 
 ### 🧠 טכנולוגיות שאני עובדת איתן
 
-🧩 שפות תכנות:  
-`C#` | `Python` | `JavaScript` | `C++` | `Node.js` | `Assembly`  
+**🔤 שפות תכנות:**  
+C# | Python | JavaScript | Java | C++ | C | Node.js | Assembly
 
-🎨 Frontend:  
-`React` | `Angular` | `HTML5` | `CSS / SCSS` | `MUI`  
+**🎨 טכנולוגיות צד לקוח (Frontend):**  
+React | Angular | HTML5 | CSS | SCSS | MUI
 
-🖥️ Backend:  
-`.NET Core` | `Web API` | `Entity Framework` | `Spring Boot`
+**🖥️ טכנולוגיות צד שרת (Backend):**  
+.NET Core | Web API | Entity Framework | Spring Boot | Node.js
 
-🛢️ בסיסי נתונים:  
-`SQL Server` | `MySQL` | `MongoDB`  
+**🛢️ מסדי נתונים:**  
+SQL Server | MySQL | MongoDB
 
-🛠️ נוספים:  
-`Git` | `GitHub` | `WinForms` | `Linux` | `Arduino`  
-
----
+**🛠️ כלים נוספים:**  
+Git | GitHub | WinForms | Linux | Arduino | Real-Time Communication
 
 ### 🚀 פרויקטים נבחרים
 
