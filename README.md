@@ -1,4 +1,4 @@
-<h1 align="center">שלום! אני תמר זלץ 👋</h1>
+<h1 align="center">שלום! אני תמר </h1>
 <p align="center">
 מפתחת תוכנה | מתמחה ב-AI, Full Stack, Embeded
 </p>
