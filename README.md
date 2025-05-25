@@ -14,20 +14,22 @@
 
 ### 🧠 טכנולוגיות שאני עובדת איתן
 
-**🔤 שפות תכנות:**  
-C# | Python | JavaScript | Java | C++ | C | Node.js | Assembly
+🧩 שפות תכנות:  
+`C#` | `Python` | `JavaScript` | `C++` | `Node.js` | `Assembly`  
 
-**🎨 טכנולוגיות צד לקוח (Frontend):**  
-React | Angular | HTML5 | CSS | SCSS | MUI
+🎨 טכנולוגיות צד לקוח (Frontend)::  
+`React` | `Angular` | `HTML5` | `CSS / SCSS` | `MUI`  
 
-**🖥️ טכנולוגיות צד שרת (Backend):**  
-.NET Core | Web API | Entity Framework | Spring Boot | Node.js
+🖥️ טכנולוגיות צד שרת (Backend):  
+`.NET Core` | `Web API` | `Entity Framework` | `Spring Boot`
 
-**🛢️ מסדי נתונים:**  
-SQL Server | MySQL | MongoDB
+🛢️ בסיסי נתונים:  
+`SQL Server` | `MySQL` | `MongoDB`  
 
-**🛠️ כלים נוספים:**  
-Git | GitHub | WinForms | Linux | Arduino | Real-Time Communication
+🛠️ כלים נוספים:  
+`Git` | `GitHub` | `WinForms` | `Linux` | `Arduino`  
+
+---
 
 ### 🚀 פרויקטים נבחרים
 
