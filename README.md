@@ -1,55 +1,56 @@
-<h1 align="center">שלום! אני תמר </h1>
+<h1 align="center">Hi! I'm Tamar</h1>
 <p align="center">
-מפתחת תוכנה | מתמחה ב-AI, Full Stack, Embeded
+Software Developer | Specializing in AI, Full Stack, and Embedded Systems
 </p>
 
 ---
 
-### קצת עליי
+### About Me
 
-אני מפתחת תוכנה עם ניסיון בפרויקטים עצמאיים ובצוות, אוהבת אתגרים טכנולוגיים וחושבת מחוץ לקופסה.  
-מתמחה בפיתוח מערכות מורכבות, ממשקים אינטראקטיביים, ושילוב טכנולוגיות מתקדמות כמו AI, .NET Core ו-React.
+I'm a passionate software developer with experience working both independently and as part of a team.  
+I thrive on technical challenges and love thinking outside the box.  
+My expertise includes building complex systems, designing interactive interfaces, and integrating cutting-edge technologies such as AI, .NET Core, and React.
 
 ---
 
-### טכנולוגיות שאני עובדת איתן
+### Technologies I Work With
 
- שפות תכנות:  
+**Programming Languages:**  
 `C#` | `Python` | `JavaScript` | `C++` | `Node.js` | `Assembly`  
 
- טכנולוגיות צד לקוח (Frontend)::  
+**Frontend Technologies:**  
 `React` | `Angular` | `HTML5` | `CSS / SCSS` | `MUI`  
 
- טכנולוגיות צד שרת (Backend):  
-`.NET Core` | `Web API` | `Entity Framework` | `Spring Boot`
+**Backend Technologies:**  
+`.NET Core` | `Web API` | `Entity Framework` | `Spring Boot`  
 
- בסיסי נתונים:  
+**Databases:**  
 `SQL Server` | `MySQL` | `MongoDB`  
 
- כלים נוספים:  
-`Git` | `GitHub` | `WinForms` | `Linux` | `Arduino`  
+**Tools & Platforms:**  
+`Git` | `GitHub` | `WinForms` | `Linux` | `Arduino`
 
 ---
 
-### פרויקטים נבחרים
+### Featured Projects
 
-#### מערכת חכמה לשיבוץ הסעות לחינוך מיוחד (2025)
-- פיתוח מלא בצד לקוח (`React + Redux`) וצד שרת (`C# .NET Core + SQL`)
-- חישוב מסלול אופטימלי עם Google Maps API
-- שליחת התראות ב-SMS (Twilio), ממשק מתקדם עם MUI
+#### Smart Transportation Scheduling System for Special Education (2025)
+- Full-stack development using `React + Redux` (frontend) and `C# .NET Core + SQL` (backend)
+- Route optimization powered by Google Maps API
+- Real-time SMS notifications via Twilio, advanced UI built with MUI
 
-#### משחק אינטראקטיבי ב-JavaScript (2024)
-- פיתוח משחק מאתגר עם HTML, CSS ו-JavaScript
-- דגש על חוויית משתמש ואנימציות
-- ניהול גרסאות ב-GitHub
+#### Interactive JavaScript Game (2024)
+- Developed a fun and engaging game using HTML, CSS, and JavaScript
+- Focused on user experience and smooth animations
+- Version control and collaboration on GitHub
 
-#### מערכת לניהול עמותה – “צליאק בקהילה” (2023)
-- פיתוח מערכת מאובטחת לניהול לקוחות, מוצרים וספקים
-- שימוש ב-WinForms + C# עם שאילתות מתקדמות
+#### NGO Management System – “Celiac in the Community” (2023)
+- Secure desktop app for managing clients, products, and suppliers
+- Built with `WinForms + C#` and advanced SQL queries
 
 ---
 
-### סטטיסטיקות GitHub
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tamarzalts&show_icons=true&theme=default" />
@@ -59,6 +60,4 @@
 
 ---
 
-
-
-> "למידה היא תהליך אינסופי – ואני תמיד במסע להשתפר." 
+> "Learning is an endless journey – and I'm always on the path to improve."
