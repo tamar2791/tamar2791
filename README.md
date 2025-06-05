@@ -53,9 +53,9 @@ My expertise includes building complex systems, designing interactive interfaces
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamarzalts&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamar2791&show_icons=true&theme=default" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamarzalts&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamar2791&layout=compact&theme=default" />
 </p>
 
 ---
