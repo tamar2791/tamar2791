@@ -44,7 +44,7 @@ My expertise includes building complex systems, designing interactive interfaces
 - Focused on user experience and smooth animations
 - Version control and collaboration on GitHub
 
-#### NGO Management System – “Celiac in the Community” (2023)
+#### Management system for the <i>“Celiac Bakehila”association</i> (2023)
 - Secure desktop app for managing clients, products, and suppliers
 - Built with `WinForms + C#` and advanced SQL queries
 
