@@ -60,7 +60,6 @@ My expertise includes building complex systems, designing interactive interfaces
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tamar2791&show_icons=true&theme=default" />
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamar2791&show_icons=true&locale=en&layout=compact" alt="tamar2791" />
   <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamar2791&" alt="tamar2791" />
 </p>
