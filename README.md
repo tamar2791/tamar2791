@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Tamar</h1>
 <p align="center">
-Software Developer | Specializing in AI, Full Stack, and Embedded Systems
+Software Developer | Specializing in Embedded Systems, AI, and Full Stack 
 </p>
 
 
@@ -21,23 +21,42 @@ My expertise includes building complex systems, designing interactive interfaces
 ### Technologies I Work With
 
 **Programming Languages:**  
-`C#` | `Python` | `JavaScript` | `C++` | `Node.js` | `Assembly`  
+`C++` | `C` | `Python` | `C#` | `Assembly` | `Verilog` | `SystemVerilog`
 
-**Frontend Technologies:**  
-`React` | `Angular` | `HTML5` | `CSS / SCSS` | `MUI`  
+**Embedded & Hardware Tools:** 
+`RTL Simulation` | `Arduino` | `Cadence Xcelium` | `SimVision` 
+
+**Frameworks & Libraries:**  
+ `OOP` | `State Machines` | `Design Patterns`   
+
+**Databases:**  
+`SQL Server` | `MongoDB`  
+
+**Development Tools:**
+`Git` | `GitHub` | `CMake` | `Windows` | `Linux` | `Visual Studio` | `VSCode` | `WinForms`  
 
 **Backend Technologies:**  
 `.NET Core` | `Web API` | `Entity Framework` | `Spring Boot`  
 
-**Databases:**  
-`SQL Server` | `MySQL` | `MongoDB`  
+**Mathematics:**
+`Linear Algebra` | `Calculus` | `Discrete Mathematics & Logic` | `Probability` | `Descriptive Statistics` | `Sequences & Systems`
 
-**Tools & Platforms:**  
-`Git` | `GitHub` | `WinForms` | `Linux` | `Arduino`
+**Extensions:**
+`Electronics` | `Systems analysis` | `Communications` | `Introduction to AI` | `BI` 
 
 ---
 
 ### Featured Projects
+
+####  Verification Environment for YAPP Router
+- Built a full `UVM` verification environment with agents, drivers, monitors, sequences, and scoreboards. 
+- Conducted simulations and waveform debugging in `Cadence Xcelium`/`Xrun` to analyze low-level behavior. 
+- Applied `constrained-random` and `directed tests`, assertions, and protocol checks to ensure high functional coverage. 
+- Gained experience in hardware-software interaction and `Linux-based` verification.
+
+#### Physics-Based Chess Engine (2025)
+-	Implemented a deterministic `C++` game engine using `OpenCV`, including frame loop, input handling, collision logic, and `state - machine - based` game flow.
+-	Designed a clean class architecture enabling traceable logic, predictable behavior, and structured debugging aligned with verification methodologies.
 
 #### Smart Transportation Scheduling System for Special Education (2025)
 - Full-stack development using `React + Redux` (frontend) and `C# .NET Core + SQL` (backend)
