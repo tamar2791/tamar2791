@@ -1,101 +1,88 @@
-<h1 align="center">Hi! I'm Tamar 👋</h1>
+<h1 align="center">Hi! I'm Tamar</h1>
 <p align="center">
-Software Developer | Embedded Systems | AI | Full Stack
+Software Developer | Specializing in Embedded Systems, AI, and Full Stack 
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamar2791&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamar2791&label=Profile%20views&color=0e75b6&style=flat" alt="tamar2791" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamar2791" alt="tamar2791" /></a> </p>
 
 ---
 
-## 🚀 About Me
+### About Me
 
-I'm a passionate software developer with experience both independently and in team-based environments.  
-I love solving complex problems, designing smart systems, and thinking creatively.  
-My expertise spans embedded systems, AI, full-stack development, and building interactive, efficient software.
-
----
-
-## 🛠️ Technologies I Work With
-
-### **Programming Languages**
-`C++` · `C` · `Python` · `C#` · `Assembly` · `Verilog` · `SystemVerilog`
-
-### **Embedded & Hardware**
-`RTL Simulation` · `Arduino` · `Cadence Xcelium` · `SimVision`
-
-### **Frameworks & Concepts**
-`OOP` · `Design Patterns` · `State Machines`
-
-### **Databases**
-`SQL Server` · `MongoDB`
-
-### **Tools**
-`Git` · `GitHub` · `CMake` · `Linux` · `Windows` · `VSCode` · `Visual Studio` · `WinForms`
-
-### **Backend**
-`.NET Core` · `Entity Framework` · `Spring Boot`
-
-### **Math & Logic**
-`Linear Algebra` · `Calculus` ·  
-`Discrete Math & Logic` · `Probability` · `Sequences & Systems`
-
-### **Additional Knowledge**
-`Electronics` · `Systems Analysis` · `Communications` · `Intro to AI` · `BI`
+I'm a passionate software developer with experience working both independently and as part of a team.  
+I thrive on technical challenges and love thinking outside the box.  
+My expertise includes building complex systems, designing interactive interfaces, and integrating cutting-edge technologies such as AI, .NET Core, and React.
 
 ---
 
-## 🌟 Featured Projects
+### Technologies I Work With
 
-### 🔹 Verification Environment for YAPP Router
-- Full `UVM` environment with agents, drivers, monitors, sequences, and scoreboard  
-- Debugging with `Cadence Xcelium`/`Xrun` and waveform analysis  
-- `Constrained-random` and directed testing + assertions  
-- Experience with Linux-based verification flows
+**Programming Languages:**  
+`C++` | `C` | `Python` | `C#` | `Assembly` | `Verilog` | `SystemVerilog`
 
----
+**Embedded & Hardware Tools:** 
+`RTL Simulation` | `Arduino` | `Cadence Xcelium` | `SimVision` 
 
-### 🔹 Physics-Based Chess Engine (2025)
-- Deterministic `C++` engine using `OpenCV`  
-- Frame loop, collision logic, input handling  
-- Clean OOP architecture + state-machine-based game flow  
+**Frameworks & Libraries:**  
+ `OOP` | `State Machines` | `Design Patterns`   
 
----
+**Databases:**  
+`SQL Server` | `MongoDB`  
 
-### 🔹 Smart Transportation Scheduling System (2025)
-- Full-stack: `React + Redux` + `C# .NET Core + SQL`  
-- Google Maps route optimization  
-- SMS notifications via Twilio  
-- Custom UI built with MUI  
+**Development Tools:**
+`Git` | `GitHub` | `CMake` | `Windows` | `Linux` | `Visual Studio` | `VSCode` | `WinForms`  
 
----
+**Backend Technologies:**  
+`.NET Core` | `Web API` | `Entity Framework` | `Spring Boot`  
 
-### 🔹 Interactive JavaScript Game (2024)
-- HTML + CSS + JavaScript  
-- Smooth animations & UX  
-- Version control with GitHub  
+**Mathematics:**
+`Linear Algebra` | `Calculus` | `Discrete Mathematics & Logic` | `Probability` | `Descriptive Statistics` | `Sequences & Systems`
+
+**Extensions:**
+`Electronics` | `Systems analysis` | `Communications` | `Introduction to AI` | `BI` 
 
 ---
 
-### 🔹 Management System – *“Celiac Bakehila”* (2023)
-- Secure Windows desktop app  
-- `WinForms + C#` + advanced SQL queries  
+### Featured Projects
+
+####  Verification Environment for YAPP Router
+- Built a full `UVM` verification environment with agents, drivers, monitors, sequences, and scoreboards. 
+- Conducted simulations and waveform debugging in `Cadence Xcelium`/`Xrun` to analyze low-level behavior. 
+- Applied `constrained-random` and `directed tests`, assertions, and protocol checks to ensure high functional coverage. 
+- Gained experience in hardware-software interaction and `Linux-based` verification.
+
+#### Physics-Based Chess Engine (2025)
+-	Implemented a deterministic `C++` game engine using `OpenCV`, including frame loop, input handling, collision logic, and `state - machine - based` game flow.
+-	Designed a clean class architecture enabling traceable logic, predictable behavior, and structured debugging aligned with verification methodologies.
+
+#### Smart Transportation Scheduling System for Special Education (2025)
+- Full-stack development using `React + Redux` (frontend) and `C# .NET Core + SQL` (backend)
+- Route optimization powered by Google Maps API
+- Real-time SMS notifications via Twilio, advanced UI built with MUI
+
+#### Interactive JavaScript Game (2024)
+- Developed a fun and engaging game using HTML, CSS, and JavaScript
+- Focused on user experience and smooth animations
+- Version control and collaboration on GitHub
+
+#### Management system for the <i>“Celiac Bakehila”</i> association (2023)
+- Secure desktop app for managing clients, products, and suppliers
+- Built with `WinForms + C#` and advanced SQL queries
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tamar2791" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=tamar2791&show_icons=true&include_all_commits=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamar2791&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamar2791&show_icons=true&theme=default" />
+  <br>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamar2791&show_icons=true&locale=en&layout=compact" alt="tamar2791" />
 </p>
 
 ---
 
-<p align="center">
-✨ “Learning is an endless journey – and I'm always on the path to improve.” ✨
-</p>
+> "Learning is an endless journey – and I'm always on the path to improve."
