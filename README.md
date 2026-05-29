@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Tamar</h1>
 <p align="center">
-Software Developer | Specializing in Embedded Systems, AI, and Full Stack 
+ Verification Engineer
 </p>
 
 
@@ -27,7 +27,7 @@ My expertise includes building complex systems, designing interactive interfaces
 `RTL Simulation` | `Arduino` | `Cadence Xcelium` | `SimVision` 
 
 **Frameworks & Libraries:**  
- `OOP` | `State Machines` | `Design Patterns`   
+ `UVM` | `OOP` | `State Machines` | `Design Patterns`   
 
 **Databases:**  
 `SQL Server` | `MongoDB`  
